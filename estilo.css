@@ -1,0 +1,30 @@
+body {
+
+    background: #d2d2c1 url('Imagens/fundo.png'); /* Quando colocamos uma imagem e uma cor de fundo, a imagem fica sobre a cor. */
+    font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+
+#principal{
+
+    width: 900px;
+
+}
+
+#menu{
+
+    background: #c5c5b2;
+    padding: 15px; /* Espaçamento interno do elemento formatado. */
+
+}
+
+a {
+
+    color: #4b566a;
+    text-decoration: none; /* Para tirar o underline padrão de anchor. */
+    font-weight: bold;aa
+    border: 1px; 
+    padding: 5px; /* Tanto o border e o padding foram usados para aumentar um pouco o espaçamento entre os anchors. */
+
+}
