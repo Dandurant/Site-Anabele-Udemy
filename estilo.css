@@ -7,9 +7,9 @@ body {
 
 
 #principal{
-
+    /*
     width: 900px;
-
+    */
 }
 
 #menu{
@@ -26,5 +26,18 @@ a {
     font-weight: bold;
     border: 1px; 
     padding: 5px; /* Tanto o border e o padding foram usados para aumentar um pouco o espaçamento entre os anchors. */
+
+}
+
+#conteudo{
+
+    background:#e8e8d9;
+    padding: 10px; /* Para descolar o texto da margem do site */
+
+}
+
+.centralizar{
+
+    text-align: center;
 
 }
